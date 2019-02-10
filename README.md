@@ -7,9 +7,9 @@ Airbnb is a popular online marketplace that enables people to list, find or rent
 
 This big issue can be seperated into four sub-logical questions:
 
-1) Find a worthy neighborhood where the houses are sold at a lower price level and leased at a higher price level
+1) Find a worthy neighborhood where the houses are sold at a lower price level but leased at a higher price level
 
-2) Learn the best house-type which could help hosts obtain the highest rent per person.
+2) Figure out the best house-type which could help hosts obtain the highest rental per person.
 
 3) Determine the proper price to lease
 
